@@ -36,6 +36,23 @@
             float: left;
             width: 33.33%;
           }
+          .content{
+            overflow: hidden;
+            background-color: #444;
+          }
+          .content a {
+
+            display: block;
+            color: #f2f2f2;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+          }
+          .content a:hover {
+            background-color: #ddd;
+            color: black;
+          }
+
       </style>
   </head>
   <body>
