@@ -105,11 +105,11 @@
   </div>
 
   <form>
-    First name: <input type="text" name="firstname">
-    Last name: <input type="text" name="lastname">
+    平台: <input type="text" name="pingtai">
+    游戏: <input type="text" name="youxi">
     Password: <input type="password" name="pwd">
-    <input type="radio" name="sex" value="male">Male
-    <input type="radio" name="sex" value="female">Female
+    <input type="radio" name="sex" value="male">Male like
+    <input type="radio" name="sex" value="female">Female like
   </form>
 
   <div class="column">
