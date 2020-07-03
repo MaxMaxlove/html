@@ -110,6 +110,7 @@
     Password: <input type="password" name="pwd">
     <input type="radio" name="sex" value="male">Male like
     <input type="radio" name="sex" value="female">Female like
+      <input type="submit" value="Submit">
   </form>
 
   <div class="column">
