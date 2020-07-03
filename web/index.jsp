@@ -67,6 +67,7 @@
             background-color: white;
             padding: 20px;
             margin-top: 20px;
+            text-align: center;
 
           }
 
@@ -135,7 +136,7 @@
 
 
   <div class="card">
-    <h3>热门文章</h3>
+    <h3>热门游戏</h3>
     <div class="fakeimg">
       <p>
         <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/acod_box.jpg" alt="图片文本描述" width="560" height="698">
