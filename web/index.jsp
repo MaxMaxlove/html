@@ -9,7 +9,7 @@
 <html>
   <head>
     <title>傅力的网页</title>
-      <style type=text/css">
+      <style>
           .header {
               background-color: #f1f1f1;
               padding: 20px;
