@@ -69,6 +69,12 @@
             margin-top: 20px;
           }
 
+          .fakeimg {
+            background-color: #aaa;
+            width: 100%;
+            padding: 20px;
+          }
+
       </style>
   </head>
   <body>
