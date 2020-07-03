@@ -27,6 +27,10 @@
             padding: 14px 16px;
             text-decoration: none;
           }
+          .topnav a:hover {
+            background-color: #ddd;
+            color: black;
+          }
       </style>
   </head>
   <body>
