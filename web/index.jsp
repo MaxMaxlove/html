@@ -105,10 +105,10 @@
   </div>
 
   <form>
-    First name: <input type="text" name="firstname"><br>
+    First name: <input type="text" name="firstname">
     Last name: <input type="text" name="lastname">
     Password: <input type="password" name="pwd">
-    <input type="radio" name="sex" value="male">Male<br>
+    <input type="radio" name="sex" value="male">Male
     <input type="radio" name="sex" value="female">Female
   </form>
 
