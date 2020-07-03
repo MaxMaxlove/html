@@ -15,6 +15,16 @@
               padding: 20px;
               text-align: center;
           }
+          .logo{
+            width: 95px;
+            height: 40px;
+            /*margin-top: 10px;*/
+            float: left;
+            margin: 10px;
+          }
+          .logo img{
+            line-height: 40px;
+          }
           .topnav {
               overflow: hidden;
               background-color: #333;
@@ -38,6 +48,11 @@
   <div class="header">
       <h1>傅力的网页</h1>
   </div>
+
+  <div class="logo">
+    <img src=""/>
+  </div>
+
 
   <div class="topnav">
     <a href="#">steam</a>
