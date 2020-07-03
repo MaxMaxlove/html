@@ -118,7 +118,7 @@
       <input type="submit" value="Submit">
   </form>
 
-  <table border="1">
+  <table border="1" align="center" bgcolor="#C0C0C0">
     <caption>游戏价格目录</caption>
     <tr>
       <th>游戏</th>
