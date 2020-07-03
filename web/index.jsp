@@ -15,6 +15,10 @@
               padding: 20px;
               text-align: center;
           }
+          .topnav {
+              overflow: hidden;
+              background-color: #333;
+          }
       </style>
   </head>
   <body>
