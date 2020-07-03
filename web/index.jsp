@@ -9,9 +9,18 @@
 <html>
   <head>
     <title>傅力的网页</title>
-      <style type=text/css"></style>
+      <style type=text/css">
+          .header {
+              background-color: #f1f1f1;
+              padding: 20px;
+              text-align: center;
+          }
+      </style>
   </head>
   <body>
+  <div class="header">
+      <h1>头部区域</h1>
+  </div>
   <div class="content">
     <ul>
       <li><a href="#">无内鬼</a></li>
