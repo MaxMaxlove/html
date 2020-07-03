@@ -15,16 +15,7 @@
               padding: 20px;
               text-align: center;
           }
-          .logo{
-            width: 95px;
-            height: 40px;
-            /*margin-top: 10px;*/
-            float: left;
-            margin: 10px;
-          }
-          .logo img{
-            line-height: 40px;
-          }
+
           .topnav {
               overflow: hidden;
               background-color: #333;
@@ -41,6 +32,10 @@
             background-color: #ddd;
             color: black;
           }
+          .column {
+            float: left;
+            width: 33.33%;
+          }
       </style>
   </head>
   <body>
@@ -49,9 +44,7 @@
       <h1>傅力的网页</h1>
   </div>
 
-  <div class="logo">
-    <img src=""/>
-  </div>
+
 
 
   <div class="topnav">
@@ -72,6 +65,21 @@
       <li><a href="#">VIP</a></li>
       <li><a href="#">其他</a></li>
     </ul>
+  </div>
+
+  <div class="column">
+    <h2>steam</h2>
+    <p>Steam是一款面向全球的综合性数字游戏社交平台，由Valve公司聘请BitTorrent（BT下载）发明者布拉姆·科恩开发设计，玩家可以在该平台购买、下载、讨论、上传和分享游戏。 Steam提供VAC反作弊系统、自动更新系统、好友系统、服务器浏览器、游戏列表、游戏截图、视频分享等功能。</p>
+  </div>
+
+  <div class="column">
+    <h2>epic</h2>
+    <p>EPIC Games是近十年来最负盛名的游戏制作团队之一，主要是因为旗下最为畅销的《战争机器》系列。团队研发的虚幻3引擎为无数的游戏制作团队所采用。2011年，EPIC Games发售的《战争机器3》引来了业界的广泛好评。代表作品另有《子弹风暴》、《堡垒之夜》等。</p>
+  </div>
+
+  <div class="column">
+    <h2>uplay</h2>
+    <p>育碧娱乐软件公司(Ubisoft Entertainment)是一家跨国的游戏制作、发行和代销商。作为多媒体工业的佼佼者，其广泛的业务稳步扩展，在和各老牌游戏公司合作的基础上，也在不断推出独特的产品，加强自己在国际市场上的影响力。</p>
   </div>
 
   </body>
