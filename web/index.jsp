@@ -8,9 +8,21 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>傅力的网页</title>
   </head>
   <body>
-  $END$
+  <div class="content">
+    <ul>
+      <li><a href="#">无内鬼</a></li>
+      <li><a href="#">荒野大镖客2</a></li>
+      <li><a href="#">刺客信条奥德赛</a></li>
+      <li><a href="#">地铁离去</a></li>
+      <li><a href="#">地平线4</a></li>
+      <li><a href="#">孤岛惊魂5</a></li>
+      <li><a href="#">方舟进化生存</a></li>
+      <li><a href="#">VIP</a></li>
+      <li><a href="#">其他</a></li>
+    </ul>
+  </div>
   </body>
 </html>
