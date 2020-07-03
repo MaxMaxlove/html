@@ -63,6 +63,12 @@
             }
           }
 
+          .card {
+            background-color: white;
+            padding: 20px;
+            margin-top: 20px;
+          }
+
       </style>
   </head>
   <body>
