@@ -118,6 +118,26 @@
       <input type="submit" value="Submit">
   </form>
 
+  <table border="1">
+    <caption>游戏价格目录</caption>
+    <tr>
+      <th>游戏</th>
+      <th>价格</th>
+      <th>评分</th>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>$100</td>
+      <td>$100</td>
+    </tr>
+    <tr>
+      <td>1</td>
+      <td>$50</td>
+      <td>$50</td>
+    </tr>
+  </table>
+
+
   <div class="column">
     <h2>steam</h2>
     <p>Steam是一款面向全球的综合性数字游戏社交平台，由Valve公司聘请BitTorrent（BT下载）发明者布拉姆·科恩开发设计，玩家可以在该平台购买、下载、讨论、上传和分享游戏。 Steam提供VAC反作弊系统、自动更新系统、好友系统、服务器浏览器、游戏列表、游戏截图、视频分享等功能。</p>
