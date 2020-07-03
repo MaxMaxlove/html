@@ -53,6 +53,10 @@
             background-color: #ddd;
             color: black;
           }
+          .content li a:hover{
+            color: red;
+          }
+
           @media screen and (max-width: 1600px) {
             .column {
               width: 100%;
