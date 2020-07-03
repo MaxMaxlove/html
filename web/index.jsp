@@ -18,9 +18,17 @@
       </style>
   </head>
   <body>
+
   <div class="header">
-      <h1>头部区域</h1>
+      <h1>傅力的网页</h1>
   </div>
+
+  <div class="topnav">
+    <a href="#">steam</a>
+    <a href="#">epic</a>
+    <a href="#">uplay</a>
+  </div>
+
   <div class="content">
     <ul>
       <li><a href="#">无内鬼</a></li>
@@ -34,5 +42,6 @@
       <li><a href="#">其他</a></li>
     </ul>
   </div>
+
   </body>
 </html>
