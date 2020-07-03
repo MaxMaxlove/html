@@ -104,6 +104,14 @@
     </ul>
   </div>
 
+  <form>
+    First name: <input type="text" name="firstname"><br>
+    Last name: <input type="text" name="lastname">
+    Password: <input type="password" name="pwd">
+    <input type="radio" name="sex" value="male">Male<br>
+    <input type="radio" name="sex" value="female">Female
+  </form>
+
   <div class="column">
     <h2>steam</h2>
     <p>Steam是一款面向全球的综合性数字游戏社交平台，由Valve公司聘请BitTorrent（BT下载）发明者布拉姆·科恩开发设计，玩家可以在该平台购买、下载、讨论、上传和分享游戏。 Steam提供VAC反作弊系统、自动更新系统、好友系统、服务器浏览器、游戏列表、游戏截图、视频分享等功能。</p>
@@ -118,6 +126,8 @@
     <h2>uplay</h2>
     <p>育碧娱乐软件公司(Ubisoft Entertainment)是一家跨国的游戏制作、发行和代销商。作为多媒体工业的佼佼者，其广泛的业务稳步扩展，在和各老牌游戏公司合作的基础上，也在不断推出独特的产品，加强自己在国际市场上的影响力。</p>
   </div>
+
+
 
   <div class="card">
     <h3>热门文章</h3>
