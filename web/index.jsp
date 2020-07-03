@@ -32,16 +32,17 @@
             background-color: #ddd;
             color: black;
           }
+
           .column {
             float: left;
             width: 33.33%;
           }
+
           .content{
             overflow: hidden;
             background-color: #444;
           }
           .content a {
-
             display: block;
             color: #f2f2f2;
             text-align: center;
@@ -52,6 +53,11 @@
             background-color: #ddd;
             color: black;
           }
+          @media screen and (max-width: 1600px) {
+            .column {
+              width: 100%;
+            }
+          }
 
       </style>
   </head>
@@ -60,9 +66,6 @@
   <div class="header">
       <h1>傅力的网页</h1>
   </div>
-
-
-
 
   <div class="topnav">
     <a href="#">steam</a>
