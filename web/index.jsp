@@ -88,6 +88,10 @@
     <a href="#">steam</a>
     <a href="#">epic</a>
     <a href="#">uplay</a>
+    <a href="#">gog</a>
+    <a href="#">rockstar</a>
+    <a href="#">origin</a>
+    <a href="#">wegame</a>
   </div>
 
   <div class="content">
