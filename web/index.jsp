@@ -67,7 +67,7 @@
             background-color: white;
             padding: 20px;
             margin-top: 20px;
-            text-align: center;
+
           }
 
           .fakeimg {
@@ -136,9 +136,13 @@
 
   <div class="card">
     <h3>热门文章</h3>
-    <div class="fakeimg"><p><img src="http://static.runoob.com/images/demo/demo1.jpg" alt="图片文本描述" width="900" height="600"></p></div>
-    <div class="fakeimg"><p><img src="http://static.runoob.com/images/demo/demo2.jpg" alt="图片文本描述" width="900" height="600"></p></div>
-    <div class="fakeimg"><p><img src="http://static.runoob.com/images/demo/demo3.jpg" alt="图片文本描述" width="900" height="600"></p></div>
+    <div class="fakeimg">
+      <p>
+        <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/acod_box.jpg" alt="图片文本描述" width="560" height="698">
+    <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/aco_box.png" alt="图片文本描述" width="560" height="698">
+    <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/acs_box.jpg" alt="图片文本描述" width="560" height="698">
+      </p>
+    </div>
   </div>
 
 
