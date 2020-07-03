@@ -9,6 +9,7 @@
 <html>
   <head>
     <title>傅力的网页</title>
+      <style type=text/css"></style>
   </head>
   <body>
   <div class="content">
