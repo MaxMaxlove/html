@@ -161,9 +161,9 @@
     <h4>热门游戏</h4>
     <div class="fakeimg">
       <p>
-        <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/acod_box.jpg" alt="图片文本描述" width="560" height="698">
-        <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/aco_box.png" alt="图片文本描述" width="560" height="698">
-        <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/acs_box.jpg" alt="图片文本描述" width="560" height="698">
+        <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/acod_box.jpg" alt="图片文本描述" width="280" height="349">
+        <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/aco_box.png" alt="图片文本描述" width="280" height="349">
+        <img src="http://cdn.hommk.com/pcgame/ubi2015/img/game/main/acs_box.jpg" alt="图片文本描述" width="280" height="349">
       </p>
     </div>
   </div>
