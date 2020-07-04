@@ -177,8 +177,6 @@
     <option value="南京">南京</option>
     <option value="杭州">杭州</option>
   </select>
-    <input type="radio" name="sex" value="male">Male like
-    <input type="radio" name="sex" value="female">Female like
     <br/>自我描述：<textarea rows="4" cols="16"></textarea>
       <input type="submit" value="Submit">
   </form>
