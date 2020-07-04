@@ -90,6 +90,15 @@
             right: 200px;
             bottom: 200px;
           }
+          .showAns{
+            width: 280px;
+            margin: 0 auto;
+            margin-bottom: 5px;
+            border:solid 0px #fff;
+            background-color: #999999;
+            padding: 3px 5px;
+            text-align: right;
+          }
 
       </style>
   </head>
