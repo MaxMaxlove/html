@@ -9,6 +9,8 @@
 <html>
   <head>
     <title>傅力的网页</title>
+      <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+      <link rel="stylesheet" type="text/css" href="css/style.css">
       <style>
           .header {
               background-color: #f1f1f1;
@@ -64,7 +66,7 @@
 
 
             /*上下居中*/
-            line-height: 100% ；
+            line-height: 100% ;
           }
 
           @media screen and (max-width: 1600px) {
@@ -243,4 +245,5 @@
 
 
   </body>
+
 </html>
