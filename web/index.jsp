@@ -130,7 +130,7 @@
   <body>
 
   <div class="header">
-      <h1>傅力的网页</h1>
+      <h1>傅力的网页:游戏社区</h1>
   </div>
 
   <div class="topnav">
