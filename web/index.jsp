@@ -254,7 +254,13 @@
                   counter +=text;
                   $(".showAns").val(counter);
               }
-
+              else if(text === 'AC'){
+                  counter="";
+                  $(".showAns").val(counter);
+              }else if(text ==='CE'){
+                  counter = counter.slice(0,-1);
+                  $(".showAns").val(counter);
+              }
 
           });
 
