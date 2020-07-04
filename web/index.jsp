@@ -159,8 +159,7 @@
 
   <form action="result.jsp">
     平台: <input type="text" name="pingtai">
-    游戏: <input type="text" name="youxi">
-    Password: <input type="password" name="pwd">
+    游戏类型: <input type="text" name="youxileixing">
     <input type="radio" name="sex" value="male">Male like
     <input type="radio" name="sex" value="female">Female like
       <input type="submit" value="Submit">
