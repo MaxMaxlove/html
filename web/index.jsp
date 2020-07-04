@@ -248,7 +248,15 @@
       var ans = 0;
       $(document).ready(function(){
           var counter="";     //记录输入的数据与结果的字符串
+          $("button").on("click",function(){
+              var text = $(this).attr('value');
+              if(text !== 'AC' && text !== 'CE' && text !== 'Ans' && text !== '='){
+                  counter +=text;
+                  $(".showAns").val(counter);
+              }
 
+
+          });
 
       });
   </script>
