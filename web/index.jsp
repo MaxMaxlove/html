@@ -260,6 +260,10 @@
               }else if(text ==='CE'){
                   counter = counter.slice(0,-1);
                   $(".showAns").val(counter);
+              }else if(text === '='){
+                  ans = eval(counter);
+                  $(".showAns").val(ans);
+                  counter = "";
               }
 
           });
