@@ -169,6 +169,7 @@
   </div>
 
   <form action="result.jsp">
+    <fieldset>
     <br/>平台: <input type="text" name="pingtai"/>
     <br/>游戏类型: <input type="text" name="youxileixing"/>
     <br/>用户名：<input type="text" name="username" value="傅力"/>
@@ -190,6 +191,7 @@
   </select>
     <br/>自我描述：<textarea rows="4" cols="16"></textarea>
       <input type="submit" value="Submit">
+    </fieldset>
   </form>
 
   <table border="1" align="center" bgcolor="#C0C0C0">
