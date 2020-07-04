@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>傅力的网页</title>
+    <title>傅力的网页：游戏社区</title>
 
       <style>
           .header {
