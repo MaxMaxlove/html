@@ -245,6 +245,11 @@
 
   </body>
   <script>
+      var ans = 0;
+      $(document).ready(function(){
+          var counter="";     //记录输入的数据与结果的字符串
 
+
+      });
   </script>
 </html>
