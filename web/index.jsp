@@ -160,8 +160,26 @@
   <form action="result.jsp">
     平台: <input type="text" name="pingtai">
     游戏类型: <input type="text" name="youxileixing">
+    <br/>用户名：<input type="text" name="username" value="傅力"/>
+    <br/>密码：    <input type="password" name="password"/>
+    <br/>性别：<input type="radio" name="sex" value="男" checked="default"/>男
+    <input type="radio" name="sex" value="女"/>女
+    <br/>兴趣：<input type="checkbox" name="interest" value="看书"/>看书
+    <input type="checkbox" name="interest" value="上网"/>上网
+    <input type="checkbox" name="interest" value="运动"/>运动
+    <input type="checkbox" name="interest" value="电影"/>电影
+    <input type="checkbox" name="interest" value="音乐"/>音乐
+    <input type="checkbox" name="interest" value="画画"/>画画
+    <br/>所在城市：<select name="city">
+    <option value="北京">北京</option>
+    <option value="上海">上海</option>
+    <option value="广州">广州</option>
+    <option value="南京">南京</option>
+    <option value="杭州">杭州</option>
+  </select>
     <input type="radio" name="sex" value="male">Male like
     <input type="radio" name="sex" value="female">Female like
+    <br/>自我描述：<textarea rows="4" cols="16"></textarea>
       <input type="submit" value="Submit">
   </form>
 
