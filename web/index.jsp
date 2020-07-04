@@ -104,6 +104,15 @@
               margin: 0 auto;
               padding: 7px;
           }
+          button{
+            margin-bottom: 7px;
+            width: 62px;
+            height: 40px;
+            background-color: #ffffff;
+            border-style: none;
+            outline: none;
+            color: #656765;
+          }
 
       </style>
   </head>
