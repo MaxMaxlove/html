@@ -77,6 +77,20 @@
             padding: 20px;
           }
 
+
+          .main{
+            text-align: center;
+            background-color: #888888;
+            border-radius: 20px;
+            width: 300px;
+            height: 350px;
+            margin: auto;
+            top: 200px;
+            left: 200px;
+            right: 200px;
+            bottom: 200px;
+          }
+
       </style>
   </head>
   <body>
