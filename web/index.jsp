@@ -157,7 +157,7 @@
     </ul>
   </div>
 
-  <form>
+  <form action="result.jsp">
     平台: <input type="text" name="pingtai">
     游戏: <input type="text" name="youxi">
     Password: <input type="password" name="pwd">
