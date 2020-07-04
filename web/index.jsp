@@ -210,7 +210,8 @@
       <button value="=">=</button>
     </div>
   </div>
-
+  <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+  <script src="js/cal.js"></script>
 
   <div class="column">
     <h3>steam</h3>
