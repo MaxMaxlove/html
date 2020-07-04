@@ -56,6 +56,16 @@
           .content li a:hover{
             color: red;
           }
+          .content li {
+            /*去除列表格式*/
+            list-style: none;
+            /*使列表排成一排*/
+            float: left;
+
+
+            /*上下居中*/
+            line-height: 100% ；
+          }
 
           @media screen and (max-width: 1600px) {
             .column {
