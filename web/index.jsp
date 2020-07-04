@@ -158,8 +158,8 @@
   </div>
 
   <form action="result.jsp">
-    平台: <input type="text" name="pingtai">
-    游戏类型: <input type="text" name="youxileixing">
+    <br/>平台: <input type="text" name="pingtai"/>
+    <br/>游戏类型: <input type="text" name="youxileixing"/>
     <br/>用户名：<input type="text" name="username" value="傅力"/>
     <br/>密码：    <input type="password" name="password"/>
     <br/>性别：<input type="radio" name="sex" value="男" checked="default"/>男

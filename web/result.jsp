@@ -11,10 +11,15 @@
     <title>Title</title>
 </head>
 <body>
-<%String username=request.getParameter("username");
+<%
+    String pingtai=request.getParameter("pingtai");
+    String youxileixing=request.getParameter("youxileixing");
+    String username=request.getParameter("username");
     String password=request.getParameter("password");
     String sex=request.getParameter("sex");
     String city=request.getParameter("city");
+    out.println("平台:"+pingtai+"<BR>");
+    out.println("游戏类型:"+youxileixing+"<BR>");
     out.println("用户名："+username+"<BR>");
     out.println("密码："+password+"<BR>");
     out.println("性别："+sex+"<BR>");
