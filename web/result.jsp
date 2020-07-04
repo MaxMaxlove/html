@@ -35,5 +35,8 @@
     out.println("<BR>");
     out.println("所在城市："+city+"<BR>");
  %>
+<form action="index.jsp">
+    <input type="submit" value="返回首页">
+</form>
 </body>
 </html>
