@@ -9,8 +9,7 @@
 <html>
   <head>
     <title>傅力的网页</title>
-      <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
-      <link rel="stylesheet" type="text/css" href="css/style.css">
+
       <style>
           .header {
               background-color: #f1f1f1;
@@ -245,5 +244,7 @@
 
 
   </body>
+  <script>
 
+  </script>
 </html>
