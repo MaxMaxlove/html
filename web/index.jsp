@@ -99,6 +99,11 @@
             padding: 3px 5px;
             text-align: right;
           }
+          .buttons{
+              width: 275px;
+              margin: 0 auto;
+              padding: 7px;
+          }
 
       </style>
   </head>
