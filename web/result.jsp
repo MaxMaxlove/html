@@ -11,9 +11,7 @@
     <title>Title</title>
 </head>
 <body>
-<script>
-    window.alert(注册成功);
-</script>
+
 <%
     String pingtai=request.getParameter("pingtai");
     String youxileixing=request.getParameter("youxileixing");
@@ -42,4 +40,8 @@
     <input type="submit" value="返回首页">
 </form>
 </body>
+<script>
+    document.write(Date());
+    window.alert(注册成功);
+</script>
 </html>
