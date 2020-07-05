@@ -11,6 +11,9 @@
     <title>Title</title>
 </head>
 <body>
+<script>
+    window.alert(注册成功);
+</script>
 <%
     String pingtai=request.getParameter("pingtai");
     String youxileixing=request.getParameter("youxileixing");
